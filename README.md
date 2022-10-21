@@ -1,1 +1,1 @@
-# Salary-management-app-in C#
+# Salary-management-app-in C Sharp
